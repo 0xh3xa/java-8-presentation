@@ -1,2 +1,2 @@
-# java-8-presentation
-Java 8 presentation
+# java 8 in Deep
+Java 8 presentation to my public speech about Lambda and streams
